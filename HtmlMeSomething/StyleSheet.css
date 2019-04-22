@@ -1,0 +1,50 @@
+﻿body
+{
+    background-color:Teal;
+    border-style:double;
+    border-color: hotpink;
+
+}
+
+h1 {
+    color: #1e0033;
+    text-align:center;
+}
+.titleColor{
+    text-shadow:2px 2px chartreuse;
+}
+p{
+    text-align:center;
+    margin-left:20px;
+    margin-right:20px;
+}
+div{
+    padding-top:30px;
+    
+   
+}
+ul{
+    margin-left:50px;
+    
+}
+#borderimg{
+    border:5px solid;
+    border-color:lawngreen;
+    
+    
+    
+
+}
+#borderimg2{
+    border:5px solid;
+    border-color:midnightblue;
+    
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+li{
+    color:antiquewhite;
+}
